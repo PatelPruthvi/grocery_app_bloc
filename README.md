@@ -1,16 +1,40 @@
-# bloc_ecommerce_app
+# grocery_app_bloc
 
-A new Flutter project.
+Just getting the basics right with BLoC.Learned about bloc and cubit, their role in state management.Also learned how to handle state using these tools
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+Before you begin, ensure you have met the following requirements:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- [Git](https://git-scm.com/downloads)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+Follow these steps to install and run the app:
+
+1. **Clone the repository:**
+
+   ```bash
+   $ git clone https://github.com/PatelPruthvi/grocery_app_bloc.git
+
+2. **Navigate to Project Directory**
+   
+   ```bash
+   $ cd grocery_app_bloc
+3. **Install dependencies**
+   
+   ```bash
+   $ flutter pub get
+4. **Run application**
+
+   ```bash
+   $ flutter run
+
+### Screenshots
+<img width="729" alt="image" src="https://github.com/PatelPruthvi/grocery_app_bloc/assets/71627511/6908afd3-35a6-49d5-9256-88a584875f1b">
+
+
+
